@@ -2,7 +2,6 @@
 
 <jsp:useBean id="stud" class="shrikant.student" scope="request" />
 
-<!-- Automatically sets bean properties from request parameters -->
 <jsp:setProperty name="stud" property="*" />
 
 <h2>Student Details</h2>
