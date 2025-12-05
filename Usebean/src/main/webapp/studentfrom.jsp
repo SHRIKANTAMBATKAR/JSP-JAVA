@@ -6,6 +6,7 @@
 <body>
 
 <h2>Enter Student Details</h2>
+<!-- Automatically sets bean properties from request parameters -->
 
 <form action="showstudent.jsp" method="post">
     Name: <input type="text" name="name"><br><br>
@@ -17,3 +18,4 @@
 
 </body>
 </html>
+
