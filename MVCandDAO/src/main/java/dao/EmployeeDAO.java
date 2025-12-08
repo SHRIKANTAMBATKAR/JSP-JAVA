@@ -29,7 +29,6 @@ public class EmployeeDAO {
         return result;
     }
 
-    // View all employees
     public List<Employee> getAllEmployees() {
         List<Employee> list = new ArrayList<>();
 
@@ -128,4 +127,5 @@ public class EmployeeDAO {
         return result;
     }
 }
+
 
