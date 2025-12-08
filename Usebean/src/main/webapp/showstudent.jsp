@@ -8,4 +8,4 @@
 
 <p>Name: <jsp:getProperty name="stud" property="name" /></p>
 <p>Age: <jsp:getProperty name="stud" property="age" /></p>
-<p>Course: <jsp:getProperty name="stud" property="course" /></p>
+
