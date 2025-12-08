@@ -7,7 +7,6 @@ import shrikant.DBUtil;
 
 public class EmployeeDAO {
 
-    // Add employee
     public boolean saveEmployee(Employee emp) {
         boolean result = false;
         try {
@@ -129,3 +128,4 @@ public class EmployeeDAO {
         return result;
     }
 }
+
