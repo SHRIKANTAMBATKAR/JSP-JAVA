@@ -1,4 +1,4 @@
-
+package shrikant;
 
 public class student {
 
@@ -32,4 +32,5 @@ public class student {
         this.course = course;
     }
 }
+
 
