@@ -81,7 +81,6 @@ public class EmployeeDAO {
         return e;
     }
 
-    // Update employee
     public boolean updateEmployee(Employee emp) {
         boolean result = false;
 
@@ -126,6 +125,7 @@ public class EmployeeDAO {
         return result;
     }
 }
+
 
 
 
