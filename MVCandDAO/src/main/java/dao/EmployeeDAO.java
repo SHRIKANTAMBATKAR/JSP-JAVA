@@ -55,7 +55,6 @@ public class EmployeeDAO {
         return list;
     }
 
-    // Get employee by ID
     public Employee getEmployeeById(int id) {
         Employee e = null;
         try {
@@ -127,5 +126,6 @@ public class EmployeeDAO {
         return result;
     }
 }
+
 
 
